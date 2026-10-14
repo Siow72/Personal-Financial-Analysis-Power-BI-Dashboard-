@@ -29,8 +29,6 @@ The dashboard aims to turn everyday financial transactions into clear, actionabl
 | **Spending Analysis II** | Review transaction history, spending frequency, and largest transactions by category | In development |
 | **Cash Flow** | Examine monthly inflows, outflows, and net cash flow | In development |
 | **Budget** | Compare category-level budgets with actual spending and remaining balances | In development |
-| **Net Worth** | Follow changes in assets, liabilities, and net worth | Planned / evolving |
-| **Accounts** | Review balances across bank accounts and e-wallets | Planned |
 | **Goals** | Monitor progress toward savings and other financial goals | Planned |
 
 *Statuses are intentionally conservative until the latest report file and visuals are verified.*

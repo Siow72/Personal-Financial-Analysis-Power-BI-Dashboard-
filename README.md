@@ -8,9 +8,9 @@ This project brings everyday financial records into one place to help users unde
 
 ## Dashboard Preview
 
-![Financial overview dashboard](/screenshots/Overview.png)
+![Financial overview dashboard](screenshot/Overview.png)
 
-*Screenshot placeholder: add an image named `overview.png` in `screenshots/` to display the dashboard here.*
+*Screenshot placeholder: add an image named `overview.png` in `screenshots` to display the dashboard here.*
 
 ## Dashboard Pages
 
@@ -57,7 +57,6 @@ The dashboard uses financial records organized around several subject areas:
 - **Goal:** Savings goals and related metadata.
 - **DateTable:** Calendar attributes for time filtering, grouping, and analysis.
 
-The exact relationship configuration and field definitions should be documented in [`docs/data-model.md`](docs/data-model.md) once finalized.
 
 ## DAX and Analytical Logic
 
@@ -102,11 +101,5 @@ For implementation notes and selected formulas, see [`docs/dax-measures.md`](doc
 This repository is intended for **personal learning and portfolio demonstration**. Only fictional, anonymized, or explicitly approved datasets should be uploaded. Do not commit personal financial records, bank account information, credentials, or any other sensitive data.
 
 The dashboard is a financial tracking and analysis tool, not professional financial advice.
-
-## License
-
-A license has not yet been selected. Add a `LICENSE` file once you decide how others may use, copy, and modify this project.
-
----
 
 **Built with Microsoft Power BI, DAX, and Excel.**

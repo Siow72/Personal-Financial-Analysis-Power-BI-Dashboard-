@@ -73,43 +73,11 @@ Custom DAX measures support report interactions and financial analysis, includin
 
 For implementation notes and selected formulas, see [`docs/dax-measures.md`](docs/dax-measures.md) when added.
 
-## Repository Structure
-
-```text
-personal-finance-dashboard/
-├── README.md
-├── LICENSE
-├── .gitignore
-├── dashboard/
-│   └── Personal-Finance-Dashboard.pbix
-├── data/
-│   ├── sample/
-│   │   └── Money-Tracker-Sample.xlsx
-│   └── README.md
-├── docs/
-│   ├── data-model.md
-│   ├── dax-measures.md
-│   ├── dashboard-guide.md
-│   └── screenshots/
-│       ├── overview.png
-│       ├── spending-analysis-1.png
-│       ├── spending-analysis-2.png
-│       ├── cash-flow.png
-│       ├── budget.png
-│       ├── trip-budget.png
-│       └── goals.png
-└── assets/
-    ├── icons/
-    └── images/
-```
-
-> This is the **planned repository layout**. Some documentation files, screenshots, and sample data may not be uploaded yet.
-
 ## Getting Started
 
 1. **Clone or download** this repository.
    ```bash
-   git clone https://github.com/YOUR-USERNAME/personal-finance-dashboard.git
+   git clone https://github.com/Siow72/personal-finance-dashboard.git
    ```
 2. **Install Power BI Desktop** if you do not already have it.
 3. **Open** `dashboard/Personal-Finance-Dashboard.pbix` in Power BI Desktop.

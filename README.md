@@ -8,9 +8,9 @@ This project brings everyday financial records into one place to help users unde
 
 ## Dashboard Preview
 
-![Financial overview dashboard](screenshots/Overview.png)
+![Financial overview dashboard](/screenshots/Overview.png)
 
-*Screenshot placeholder: add an image named `overview.png` in `docs/screenshots/` to display the dashboard here.*
+*Screenshot placeholder: add an image named `overview.png` in `screenshots/` to display the dashboard here.*
 
 ## Dashboard Pages
 
